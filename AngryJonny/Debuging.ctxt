@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Debuging
+comment1.params=string
+comment1.target=void\ toTerminal(java.lang.String)
+comment1.text=\r\n\ \ \ Dezentrale\ Terminal\ Debug\ Outputfunktion\r\n\ \ \ Kann\ durch\ ein\ Flag\ ein\ und\ ausgeschalten\ werden\r\n
+comment2.params=string
+comment2.target=void\ toTerminal2(java.lang.String)
+numComments=3

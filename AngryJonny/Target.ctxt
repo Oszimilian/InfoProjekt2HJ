@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Target
+comment1.params=myWorld
+comment1.target=Target(MyWorld)
+comment1.text=\r\n\ \ \ Konstruktor\ mit\ Referenz\ auf\ MyWorld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ \ \u00DCberpr\u00FCft\ ob\ der\ Ball\ das\ TargetObjekt\ ber\u00FChrt\r\n\ \ \ M\u00F6chte\ die\ Explosionsanimation\ ausf\u00FChren\r\n
+comment3.params=
+comment3.target=void\ updateTargetDestroy()
+comment3.text=\r\n\ \ \ Wenn\ das\ Spiel\ noch\ nicht\ gewonnen\ ist,\ wird\ \u00FCberpr\u00FCft\ ob\ sich\ der\ Ball\ in\ der\ n\u00E4he\ des\ Target\ befindet\r\n\ \ \ Ist\ der\ Speicherort\ nicht\ NULL\ wird\ der\ Ball\ von\ der\ Welt\ entfernt.\r\n\ \ \ Das\ Flag\ f\u00FCr\ die\ Explosion\ wird\ gesetzt\r\n\ \ \ durch\ winFlag\ wird\ danach\ verhindert,\ das\ diese\ Funktion\ noch\ mal\ ausgef\u00FCrht\ wird\r\n\ \ \ Der\ Winningscreen\ wird\ angezeigt\r\n
+comment4.params=
+comment4.target=void\ showExplosion()
+comment4.text=\r\n\ \ \ Wechselt\ das\ Bild\ des\ Zieles\ zu\ einem\ Gif\r\n
+comment5.params=x\ y
+comment5.target=void\ placeTarget(int,\ int)
+numComments=6

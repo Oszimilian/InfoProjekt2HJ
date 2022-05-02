@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ThrowAngle
+comment1.params=myWorld
+comment1.target=ThrowAngle(MyWorld)
+comment1.text=\r\n\ \ \ Konstruktor\ speicher\ die\ Referenz\ zu\ MyWorld\ lokal\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ \ Der\ Abwurfwinkel\ wird\ durch\ die\ Funktion\ showThrowAnlge\ die\ ganze\ zeit\ Aktualisiert\ und\ ausgegeben\r\n
+comment3.params=
+comment3.target=int[]\ getMousePosition()
+comment3.text=\r\n\ \ \ Diese\ Methode\ gibt\ die\ aktuelle\ Position\ der\ Mous,\ wenn\ nicht\ null\ (also\ auserhalb\ des\ Spielfeldes)\ in\ einem\ Array\ zur\u00FCck\r\n
+comment4.params=
+comment4.target=int\ calcThrowAngle()
+comment4.text=\r\n\ \ \ Diese\ Methode\ berechnet\ den\ Wurfwinkel\ zwischen\ der\ Mousposition\ und\ der\ Position\ des\ Balles,\ wenn\ sich\ der\ Winkel\ im\ ersten\ Qudranten\ befindet\r\n
+comment5.params=
+comment5.target=void\ showThrowAngle()
+comment5.text=\r\n\ \ \ Abwurfwinkel\ wird\ als\ Text\ unterhalb\ der\ Energyanzeige\ ausgegeben\r\n
+comment6.params=
+comment6.target=int\ getThrowAngle()
+comment6.text=\r\n\ \ \ Getter-Methode\ //\ stellt\ den\ Abwurfwinkel\ als\ Gradma\u00DF\ global\ zu\ verf\u00FCgung\r\n
+numComments=7

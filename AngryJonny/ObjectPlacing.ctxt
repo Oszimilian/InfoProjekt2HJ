@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ObjectPlacing
+comment1.params=myWorld
+comment1.target=ObjectPlacing(MyWorld)
+comment2.params=
+comment2.target=void\ selectObjectPreset()
+comment2.text=\r\n\ \ \ Durch\ eine\ JOptionPane-OptionDialog\ Abfrage,\ kann\ zwischen\ verschiedenen\ Vorgefertigten\ Spielfeldern\ (mit\ Abprallobjekten)\ gew\u00E4hlt\ werden\r\n
+comment3.params=
+comment3.target=void\ presetOne()
+comment4.params=
+comment4.target=void\ presetTwo()
+comment5.params=
+comment5.target=void\ presetThree()
+numComments=6

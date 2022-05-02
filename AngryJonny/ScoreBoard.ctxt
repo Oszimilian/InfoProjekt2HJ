@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment1.params=labelObject1\ labelObject2\ maxFail\ myWorld
+comment1.target=ScoreBoard(Label,\ Label,\ int,\ MyWorld)
+comment1.text=\r\n\ \ \ Konstruktor\ Speichert\ die\ Referenz\ auf\ die\ Zwei\ Labels\ \r\n\ \ \ \u00DCbergabe\ des\ Max-Fail-Count\ an\ die\ Klasse\r\n\ \ \ Referenz\ auf\ myWorld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ \ Aktualisert\ die\ das\ Sichtbare\ Label\r\n\ \ \ \u00DCberpr\u00FCft\ ob\ der\ Counter\ gleich\ dem\ FailCounter\ ist\r\n
+comment3.params=
+comment3.target=void\ incScore()
+comment3.text=\r\n\ \ \ Setter-Methode\ erh\u00F6ht\ bei\ jedem\ Abprallen\ den\ Fail-Counter\r\n
+comment4.params=
+comment4.target=void\ incSubScore()
+comment4.text=\r\n\ \ \ Erh\u00F6ht\ den\ Unter-Fail-Counter\ (Z\u00E4hlt\ alle\ die\ Versuche\ bis\ zum\ Abschuss\ des\ Zieles)\r\n
+comment5.params=
+comment5.target=void\ updateScore()
+comment5.text=\r\n\ \ \ Aktuallisert\ das\ Fail\ und\ SubFail\ Label\r\n
+comment6.params=
+comment6.target=void\ checkCounter()
+comment6.text=\r\n\ \ \ Wenn\ der\ Fail-Counter\ gleich\ dem\ Max-Fail-Counter\ ist,\ dann\ erfolgt\ eine\ JOptionPaneAbfrage\r\n\ \ \ Es\ wird\ gefragt\ ob\ man\ aufh\u00F6ren\ oder\ weiter\ machen\ m\u00F6chte\r\n\ \ \ Wird\ aufgeh\u00F6rt,\ wird\ eine\ neue\ Instanz\ der\ Welt\ erstellt\ und\ das\ Spiel\ beginnt\ nochmal\ komplett\ von\ vorne\r\n\ \ \ Wird\ weiter\ gemacht,\ werden\ alle\ bedingungen\ f\u00FCr\ einen\ neuen\ Wurf\ durch\ startNewMotion\ erzeugt\r\n
+comment7.params=
+comment7.target=void\ resetScore()
+comment7.text=\r\n\ \ schaft\ in\ dieser\ Klasse\ die\ Bedingungen\ f\u00FCr\ einen\ neuen\ Wurf\ bzw.\ f\u00FCr\ das\ Korrekte\ anzeigen\ des\ Spielstandes\r\n
+comment8.params=
+comment8.target=void\ showWinningScreen()
+comment8.text=\r\n\ \ \ Zeigt\ den\ Winningscreen\ \ \ \r\n
+numComments=9

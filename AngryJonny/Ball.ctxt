@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=myWorld
+comment1.target=Ball(MyWorld)
+comment1.text=\r\n\ \ \ Fals\ die\ Referenz\ auf\ MyWorld\ mal\ gebruach\ wird\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int[]\ getBallPosition()
+comment3.text=\r\n\ \ \ Diese\ Funktion\ \u00FCbergibt\ in\ einem\ Array\ die\ Aktuelle\ X\ und\ Y\ Position\ des\ Balles\r\n\ \ \ Wenn\ das\ Objekt\ nicht\ mehr\ existiert\ l\u00F6st\ die\ Exception\ aus\r\n
+comment4.params=x\ y
+comment4.target=void\ placeBall(int,\ int)
+numComments=5
